@@ -1,0 +1,6 @@
+glfw
+PyOpenGL
+numpy
+mss
+opencv-python
+pyautogui
